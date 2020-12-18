@@ -107,3 +107,4 @@ F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Web\obj\Debug\netcoreap
 F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.dll
 F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.pdb
 F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.genruntimeconfig.cache
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
