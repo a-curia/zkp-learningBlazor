@@ -1,4 +1,5 @@
 ﻿using EmployeeManagement.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -27,7 +28,7 @@ namespace EmployeeManagement.Api.Models
             return result.Entity;
         }
 
-        public async Task DeleteEmployeeAsync(int employeeId)
+        public async Task DeleteEmployee(int employeeId)
         {
             var result = await _appDbContext.Employees
                 .FirstOrDefaultAsync(e => e.EmployeeId == employeeId);
@@ -38,9 +39,9 @@ namespace EmployeeManagement.Api.Models
             }
         }
 
-        public async Task<Employee> GetEmployee(int employeeId)
+        public Task<Employee> GetEmployee(int employeeId)
         {
-            return await _appDbContext.Employees.FirstOrDefaultAsync(e => e.EmployeeId == employeeId);
+            throw new NotImplementedException();
         }
 
         public async Task<IEnumerable<Employee>> GetEmployees()
@@ -70,5 +71,6 @@ namespace EmployeeManagement.Api.Models
 
             return null;
         }
+
     }
 }
