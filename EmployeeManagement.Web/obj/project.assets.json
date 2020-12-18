@@ -99,42 +99,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gheorgheadrian.curia\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+      "projectUniqueName": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
       "projectName": "EmployeeManagement.Web",
-      "projectPath": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
-      "packagesPath": "C:\\Users\\gheorgheadrian.curia\\.nuget\\packages\\",
-      "outputPath": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Web\\obj\\",
+      "projectPath": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+      "outputPath": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gheorgheadrian.curia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://repo.ihsmarkit.com/artifactory/api/nuget/nuget-repos": {},
-        "https://repo.ihsmarkit.com/artifactory/api/nuget/nuget-sam": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
-              "projectPath": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+            "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+              "projectPath": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
             }
           }
         }
@@ -147,6 +139,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
@@ -171,7 +164,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

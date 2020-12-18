@@ -7,3 +7,11 @@ C:\APPS\workspaceDotNet\learnBlazor_2\EmployeeManagement.Models\obj\Debug\netsta
 C:\APPS\workspaceDotNet\learnBlazor_2\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
 C:\APPS\workspaceDotNet\learnBlazor_2\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.dll
 C:\APPS\workspaceDotNet\learnBlazor_2\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.pdb
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.deps.json
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.dll
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.pdb
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfo.cs
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.dll
+F:\workspaceDotNet\zkp-learningBlazor\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.pdb

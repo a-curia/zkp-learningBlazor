@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Avh+63OgeHLmiG1OqgJ1su+cbyV+dW8JUuHCrWuT/sEsiDKvH5JoN3LvXWxH/zI4OEuFc5hY4X42MSH7Ed8Spw==",
+  "dgSpecHash": "t6nr2oSnO2BCDCd9QJ4PIr2XUQxjKQRWUyT2wlCAfeBUnsz8jR2OlSQj+PdAFDjcSsJ6Hlv6LJ2VM8qq/ZVgUQ==",
   "success": true,
-  "projectFilePath": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+  "projectFilePath": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gheorgheadrian.curia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\gheorgheadrian.curia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

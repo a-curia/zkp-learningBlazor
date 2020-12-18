@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8vtEwYxhHAlx8HV3C77/sllPvgHieahLYDKkyouGarIqWmqbBWW5pHeh116UScjyWfRaqA1nhOqjYRZO5kC+tg==",
+  "dgSpecHash": "6sONDSAJkVPJcmb2D1nDNfSVOtW+Btni1ofcEM3MrFZx8avNgPqjXOxpozlLuJbVJwCXT8MlqE14VpAbfxhSeA==",
   "success": true,
-  "projectFilePath": "C:\\APPS\\workspaceDotNet\\learnBlazor_2\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+  "projectFilePath": "F:\\workspaceDotNet\\zkp-learningBlazor\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gheorgheadrian.curia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }
