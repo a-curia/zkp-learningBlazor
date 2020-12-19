@@ -40,9 +40,11 @@ namespace EmployeeManagement.Api.Models
             return result;
         }
 
-        public Task<Employee> GetEmployee(int employeeId)
+        public async Task<Employee> GetEmployee(int employeeId)
         {
-            throw new NotImplementedException();
+            return await _appDbContext.Employees
+                .Include( e => e.Department)
+                .FirstOrDefaultAsync(e => e.EmployeeId == employeeId);
         }
 
         public Task<Employee> GetEmployeeByEmail(string email)
