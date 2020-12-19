@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using EmployeeManagement.Web.Data;
+using EmployeeManagement.Web.Services;
 
 namespace EmployeeManagement.Web
 {
@@ -29,6 +30,9 @@ namespace EmployeeManagement.Web
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddHttpClient<IEmployeeService, EmployeeService>(client => {
+                client.BaseAddress = new Uri("https://localhost:5011/");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
